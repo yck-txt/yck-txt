@@ -2,7 +2,7 @@
 - 👀 I’m interested in softwaredevelopment, gaming, movies and graphic novels
 - 🌱 I’m currently learning nuxt.ui and blazor
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me yck_6OO@steam or .yck@discord
+- 📫 How to reach me yck6OO@steam or .yck@discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Adam Sandler movies :S
 
