@@ -8,6 +8,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Adam Sandler movies :S
 
+![Alternativer Text](https://yck-txt.github.io/personalpage/src/meta_knight.JPG "Optionaler Titel")
+
 
 <!--yck-txt/yck-txt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
