@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Adam Sandler movies :S
 
-![GIF of my PC](https://yck-txt.github.io/personalpage/src/meta_knight.JPG "My PC")
+![GIF of my PC](https://yck-txt.github.io/personalpage/src/meta_knight.JPG =250x250 "My PC")
 
 ![](https://yck-txt.github.io/personalpage/src/pp_pc.gif)
 
