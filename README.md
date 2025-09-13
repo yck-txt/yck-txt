@@ -7,6 +7,16 @@
 - 📫 How to reach me [yck6OO@steam](https://steamcommunity.com/id/yck6OO/ "Steam Link") or [.yck@discord](https://discord.com/users/239743573698936834 "Discord Link")
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Adam Sandler movies :S
+
+<p align="center">
+    <a href="https://github.com/yck-txt">
+      <img src="https://img.shields.io/github/followers/yck-txt?style=social" alt="GitHub followers badge" />
+    </a>
+</p>
+
+
+<h2></h2>
+
 <p align="center">
   <img src="https://yck-txt.github.io/personalpage/src/meta_knight.JPG" alt="drawing" width="20%"/>
 </p>
