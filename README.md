@@ -8,7 +8,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Adam Sandler movies :S
 
-![GIF of my PC](https://yck-txt.github.io/personalpage/src/pp_pc.gif "My PC")
+![GIF of my PC](https://yck-txt.github.io/personalpage/src/meta_knight.JPG "My PC")
+
+![](https://yck-txt.github.io/personalpage/src/pp_pc.gif)
 
 
 <!--yck-txt/yck-txt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
