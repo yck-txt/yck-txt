@@ -8,14 +8,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Adam Sandler movies :S
 
-<p align="center">
-    <a href="https://github.com/yck-txt">
-      <img src="https://img.shields.io/github/followers/yck-txt?style=social" alt="GitHub followers badge" />
-    </a>
-</p>
-
-
-<h2></h2>
 
 <p align="center">
   <img src="https://yck-txt.github.io/personalpage/src/meta_knight.JPG" alt="drawing" width="20%"/>
@@ -54,6 +46,15 @@
     src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" height="120"
   /></a>
 </p>
+
+<h2></h2>
+<p id="premium-sponsors">&nbsp;</p>
+<p align="center">
+    <a href="https://github.com/yck-txt">
+      <img src="https://img.shields.io/github/followers/yck-txt?style=social" alt="GitHub followers badge" />
+    </a>
+</p>
+
 
 <!--yck-txt/yck-txt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
