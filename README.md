@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Adam Sandler movies :S
 <p align="center">
-  <img src="https://yck-txt.github.io/personalpage/src/meta_knight.JPG" alt="drawing" width="50%"/>
+  <img src="https://yck-txt.github.io/personalpage/src/meta_knight.JPG" alt="drawing" width="20%"/>
 </p>
 
 <h2></h2>
@@ -31,6 +31,17 @@
 <p align="center">
     <a href="https://code.visualstudio.com/" target=_blank><img
     src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="120"
+  /></a>
+</p>
+
+<h2></h2>
+<p id="premium-sponsors">&nbsp;</p>
+<p align="center">
+    <a href="https://steamcommunity.com/id/yck6OO/" target=_blank><img
+    src="https://cdn.worldvectorlogo.com/logos/steam-1.svg" height="120"
+  /></a>
+      <a href="https://discord.com/users/239743573698936834" target=_blank><img
+    src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" height="120"
   /></a>
 </p>
 
