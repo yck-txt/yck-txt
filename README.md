@@ -10,6 +10,14 @@
 
 
 <p align="center">
+  <a href="https://stopchatcontrol.eu" target="_blank">
+    <img src="https://stopchatcontrol.eu/wp-content/uploads/2023/09/5-1-1024x1024.png" alt="Chatcontrol " width="75%"/>
+  </a>
+</p>
+
+
+<h2></h2>
+<p align="center">
   <img src="https://yck-txt.github.io/personalpage/src/meta_knight.JPG" alt="drawing" width="20%"/>
 </p>
 
