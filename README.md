@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="https://stopchatcontrol.eu" target="_blank">
+  <a href="https://chng.it/WRGJZhcZG9" target="_blank">
     <img src="https://stopchatcontrol.eu/wp-content/uploads/2023/09/5-1-1024x1024.png" alt="Chatcontrol " width="75%"/>
   </a>
 </p>
